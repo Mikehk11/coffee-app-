@@ -3,7 +3,7 @@
     "target": "ES2015",
     "lib": ["DOM", "ES2015"],
     "module": "ESNext",
-    "moduleResolution": "node",
+    "moduleResolution": "bundler",
     "jsx": "react",
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
